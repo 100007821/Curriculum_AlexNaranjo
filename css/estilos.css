@@ -74,3 +74,24 @@ th{
 td{
 	border:1px solid black
 }
+.columna3-1{
+    width: 33.33%;
+    color: white;
+    background-color: black;
+    text-align: center;
+    
+}
+.columna3-2{
+    width: 33.33%;
+    color: white;
+    background-color: black;
+    text-align: center;
+    
+}
+.columna3{
+    width: 33.33%;
+    color: white;
+    background-color: black;
+	text-align: center;
+    
+}
