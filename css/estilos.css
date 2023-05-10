@@ -93,5 +93,7 @@ td{
     color: white;
     background-color: black;
 	text-align: center;
-    
+}
+.column33{
+	width: 33.33%;
 }
