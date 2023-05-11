@@ -116,7 +116,12 @@ td{
 		text-align: center;
 		width: 100%;
 	}
-	
+	nav li {
+		display: block;
+		margin: 10px 0;
+		text-align: center;
+		width: 100%;
+	}
 	section {
 		margin: 20px auto;
 		padding: 10px;
