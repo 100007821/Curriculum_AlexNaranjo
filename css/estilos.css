@@ -1,4 +1,7 @@
-
+html{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Wix Madefor Display', sans-serif;
+}
 body {
 	margin: 0;
 	padding: 0;
@@ -113,7 +116,7 @@ td{
 		text-align: center;
 		width: 100%;
 	}
-	}
+	
 	section {
 		margin: 20px auto;
 		padding: 10px;
@@ -134,4 +137,4 @@ td{
 	.columna4 {
 		width: 50%;
 	}
-
+}
